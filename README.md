@@ -20,12 +20,9 @@ These scripts install everything you need to start building with Claude Code:
 
 ## Mac
 
-1. Download `setup-vibe-coding-mac.sh`
-2. Open Terminal and run:
-   ```bash
-   cd ~/Downloads
-   chmod +x setup-vibe-coding-mac.sh && ./setup-vibe-coding-mac.sh
-   ```
+1. Download `setup-vibe-coding-mac.command`
+2. Double-click the file to run it
+   - If you see a security warning, right-click the file → **Open** instead
 3. Wait ~5-10 minutes (Homebrew takes a while the first time)
 4. When VS Code opens, press `Ctrl+`` to open the terminal
 5. Type `claude` and log in
