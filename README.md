@@ -10,7 +10,7 @@ These scripts install everything you need to start building with Claude Code:
 
 ## Windows
 
-1. Download `setup-vibe-coding-windows.ps1`
+1. [Download setup-vibe-coding-windows.ps1](https://github.com/zacknotes/vibe-coding-setup/blob/main/setup-vibe-coding-windows.ps1) (click the download icon in the top right)
 2. Right-click → **Run with PowerShell**
 3. Wait ~5 minutes
 4. When VS Code opens, press `Ctrl+`` to open the terminal
@@ -20,7 +20,7 @@ These scripts install everything you need to start building with Claude Code:
 
 ## Mac
 
-1. Download `setup-vibe-coding-mac.command`
+1. [Download setup-vibe-coding-mac.command](https://github.com/zacknotes/vibe-coding-setup/blob/main/setup-vibe-coding-mac.command) (click the download icon in the top right)
 2. Double-click the file to run it
    - If you see a security warning, right-click the file → **Open** instead
 3. Wait ~5-10 minutes (Homebrew takes a while the first time)
